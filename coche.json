@@ -1,0 +1,76 @@
+{
+  "piezas": [
+    {
+      "id": 1,
+      "nombre": "Bujía NGK V-Power",
+      "tipo": "Bujía",
+      "aplicacion": "Todo terreno",
+      "compatibilidad": [
+        "Toyota",
+        "Ford",
+        "Chevrolet"
+      ],
+      "precio": 5.99
+    },
+    {
+      "id": 2,
+      "nombre": "Filtro de Aceite Fram",
+      "tipo": "Filtro",
+      "aplicacion": "Motor",
+      "compatibilidad": [
+        "Honda",
+        "Nissan",
+        "Volkswagen"
+      ],
+      "precio": 8.49
+    },
+    {
+      "id": 3,
+      "nombre": "Pastillas de Freno Brembo",
+      "tipo": "Freno",
+      "aplicacion": "Frenos delanteros",
+      "compatibilidad": [
+        "BMW",
+        "Mercedes",
+        "Audi"
+      ],
+      "precio": 35.99
+    },
+    {
+      "id": 4,
+      "nombre": "Filtro de Aire K&N",
+      "tipo": "Filtro",
+      "aplicacion": "Admisión de aire",
+      "compatibilidad": [
+        "Subaru",
+        "Mazda",
+        "Mitsubishi"
+      ],
+      "precio": 24.99
+    },
+    {
+      "id": 5,
+      "nombre": "Correa de Distribución Gates",
+      "tipo": "Correa",
+      "aplicacion": "Sistema de distribución",
+      "compatibilidad": [
+        "Hyundai",
+        "Kia",
+        "Chrysler"
+      ],
+      "precio": 15.75
+    },
+    {
+      "id": 6,
+      "nombre": "Termostato Stant",
+      "tipo": "Sistema de Enfriamiento",
+      "aplicacion": "Radiador",
+      "compatibilidad": [
+        "Ford",
+        "Chevrolet",
+        "Dodge"
+      ],
+      "precio": 12.25
+    }
+  ]
+}
